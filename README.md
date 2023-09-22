@@ -4,14 +4,14 @@
 </head>
 <body>
 
-  <h1>Welcome to Our GitHub Profile! 👋</h1>
+  <h1 align="center">Hit the Code Labs</h1>
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
   </div>
 
   <h2>Who We Are</h2>
-  <p>Hello! We are <strong>Hit the Code Labs</strong>, a tech company specializing in data science and process automation solutions. We pride ourselves on delivering cutting-edge solutions that span from academia to industry, utilizing the latest technologies and methodologies. 🛠️📊</p>
+  <p>Hello 👋! We are <strong>Hit the Code Labs</strong>, a tech company specializing in data science and process automation solutions. We pride ourselves on delivering cutting-edge solutions that span from academia to industry, utilizing the latest technologies and methodologies. 🛠️📊</p>
 
   <h2>Expertise</h2>
 
