@@ -11,7 +11,7 @@
   </div>
 
   <h2>Who We Are</h2>
-  <p>Hello 👋! We are <strong>Hit the Code Labs</strong>, a tech company specializing in data science and process automation solutions. We pride ourselves on delivering cutting-edge solutions that span from academia to industry, utilizing the latest technologies and methodologies. 🛠️📊</p>
+  <p>Hello 👋! We are <strong>Hit the Code Labs</strong>, a tech group specializing in data science and process automation solutions. We pride ourselves on delivering cutting-edge solutions that span from academia to industry, utilizing the latest technologies and methodologies. 🛠️📊</p>
 
   <h2>Expertise</h2>
 
