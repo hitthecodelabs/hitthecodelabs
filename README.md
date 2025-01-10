@@ -67,6 +67,16 @@
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy">
 </div>
 
+<!-- Geographic Information System (GIS) -->
+<h3 align="center">Geographic Information System (GIS)</h3>
+<div class="badge-container" align="center">
+  <img src="https://img.shields.io/badge/Qgis-589632?logo=qgis&logoColor=fff&style=for-the-badge" alt="QGIS">
+  <img src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas">
+  <img src="https://img.shields.io/badge/Mapbox-000?logo=mapbox&logoColor=fff&style=for-the-badge" alt="Mapbox">
+  <img src="https://img.shields.io/badge/ESRI-000?logo=esri&logoColor=fff&style=for-the-badge" alt="ESRI">
+</div>
+
 <!-- Machine Learning & AI -->
 <h3 align="center">Machine Learning & AI</h3>
 <div class="badge-container" align="center">
