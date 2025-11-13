@@ -13,7 +13,7 @@
   <h2>Who We Are</h2>
   <p>Hello 👋! <strong>Hit the Code Labs</strong>, a tech alias specializing in data science and process automation solutions. Pride on delivering cutting-edge solutions that span from academia to industry, utilizing the latest technologies and methodologies. 🛠️📊</p>
 
-  <p>Maintained with ❤️ by <a href="https://www.github.com/hittheflash">JP</a></p>
+  <p>Maintained with ❤️ by <a href="https://www.linkedin.com/in/jeanpaulpaes/">JP</a></p>
   
   <h2>Expertise</h2>
 
